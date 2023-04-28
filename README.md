@@ -1,4 +1,4 @@
-# Chat-UI with Text Streaming and ASR Integration
+# Chat-UI with Text Streaming
 This project contains a chat-UI with text streaming style and ASR integration using Whisper ASR.
 
 ## Getting Started
